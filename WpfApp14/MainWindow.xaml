@@ -32,7 +32,7 @@
                     <DataTrigger.Value>
                         <local:ProductCategories>Food</local:ProductCategories>
                     </DataTrigger.Value>
-                    <Setter TargetName="border" Property="BorderBrush" Value="lightGreen"/>
+                    <Setter TargetName="border" Property="BorderBrush" Value="Green"/>
                 </DataTrigger>
             </DataTemplate.Triggers>
         </DataTemplate>
